@@ -1,6 +1,3 @@
-
-
-
 # MBTI
 
 # MBTI Text Classification By AdaBoost Model

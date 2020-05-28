@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "D:\\Anaconda\\envs\\python37\\python.exe",
+    "python.jediEnabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintPath": "D:/Anaconda/pkgs/pylint-1.7.2-py36h091ff97_0/Scripts/pylint",
+    "python.autoComplete.extraPaths": [
+　　　　"D:/Anaconda/Lib/site-packages",
+　　　　"D:/Anaconda/Scripts",
+    ]
+}

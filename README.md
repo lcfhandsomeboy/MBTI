@@ -3,7 +3,7 @@
 Kaggle problem [MBTI](https://www.kaggle.com/datasnaek/mbti-type).
 
 
-Three methods are appiled:
+Three methods are applied:
 1. Ensemble Learning -- AdaBoost
 2. SVM
 3. DL
